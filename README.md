@@ -8,7 +8,7 @@ Algorithm for digging out LCI of interest via recursion
 - Expand the function to do LCA and calculate ratios<br/>
   -see: https://chris.mutel.org/calculating-inventory-flows.html<br/>
 - Validate with high recycle content example (e.g., recycled metals)<br/>
-- Find bioeconomy related processes & flows, covering multiple product categories, to make your point!<br/>
+- Topic development: e.g., find bioeconomy related processes & flows, covering multiple product categories<br/>
 
 ### Use of this algorithm
 - Summarize the inventory of interest (e.g., recycled flows) at each recursion level—>where high ‘circularity’ happens (e.g., the further away from your foreground, the harder you can influence)<br/>
