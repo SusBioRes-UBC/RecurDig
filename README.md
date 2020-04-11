@@ -15,4 +15,8 @@ Algorithm for digging out LCI of interest via recursion
 - Accordingly, the environmental impacts—>will there be ‘decoupling’ between high ‘circularity’ and high ‘GHG reduction’? (e.g., smaller use of recycled materials may lead to larger GHG reductions, which helps to identify the...?
 - Aggregated recycled flows: what are different recycled flows associated with the FU? which one has the highest environmental benefits?
 - Benchmarking:
+  - metrics: GHG, water, energy, circularity, precious metal
+  - product categories (representative of respective industries): 
 - "What-if" scenarios:
+  - impact propagation: e.g., change of foreground input-->unintended changes in the background layer
+  - feasibility analysis: e.g., a large change of foreground input (e.g., use alternative feedstock)-->will the supply from background exceed the capacity (if assume BAU for the relevant market)?
