@@ -3,10 +3,10 @@ Algorithm for digging out LCI of interest via recursion
 
 ### Development plan for latest version (ver 3)
 - Enable the following:
-  -list of keywords<br/>
-  -aggregate values for the same keyword at each recursion lvl<br/>
+  - list of keywords
+  - aggregate values for the same keyword at each recursion lvl
 - Expand the function to do LCA and calculate ratios
-  -see: https://chris.mutel.org/calculating-inventory-flows.html<br/>
+  - see: https://chris.mutel.org/calculating-inventory-flows.html
 - Validate with high recycle content example (e.g., recycled metals)
 - Topic development: e.g., find bioeconomy related processes & flows, covering multiple product categories<br/>
 
