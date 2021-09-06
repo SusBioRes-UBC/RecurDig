@@ -5,14 +5,14 @@ Algorithm for digging out LCI of interest via recursion
 - Enable the following:
   - list of keywords
   - aggregate values for the same keyword at each recursion lvl
-- Expand the function to do LCA and calculate ratios
-  - see: https://chris.mutel.org/calculating-inventory-flows.html
 - Validate with high recycle content example (e.g., recycled metals)
-- Topic development: e.g., find bioeconomy related processes & flows, covering multiple product categories<br/>
+- Update the lca calculation procedure (i.e., avoid creating lci matrix every time in an for loop)
+- Create a function for reading the scenario information from excel spreadsheet and format it into form that is ready for 'scenario_parser' function
+<br/>
 
 ### Use of this algorithm
 - Summarize the inventory of interest (e.g., recycled flows) at each recursion level—>where high ‘circularity’ happens (e.g., the further away from your foreground, the harder you can influence)
-- Accordingly, the environmental impacts—>will there be ‘decoupling’ between high ‘circularity’ and high ‘GHG reduction’? (e.g., smaller use of recycled materials may lead to larger GHG reductions, which helps to identify the...?
+- Accordingly, the environmental impacts—>will there be a ‘decoupling’ between high ‘circularity’ and high ‘GHG reduction’? (e.g., smaller use of recycled materials may lead to larger GHG reductions, which helps to identify the...?
 - Aggregated recycled flows: what are different recycled flows associated with the FU? which one has the highest environmental benefits?
 - Benchmarking:
   - metrics: GHG, water, energy, circularity, precious metal
