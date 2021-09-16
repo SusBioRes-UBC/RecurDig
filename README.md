@@ -2,6 +2,7 @@
 Script for digging out LCI of interest via recursion
 
 ### To-do for latest version (ver 3.4)
+- [Critical] enforce unit conversion between parent and child layers
 - Update the lca calculation procedure (i.e., avoid creating lci matrix every time in an for loop)
 - Create a function for reading the scenario information from excel spreadsheet and format it into form that is ready for 'scenario_parser' function (see [here](https://github.com/SusBioRes-UBC/RecurDig/blob/master/ActivityModifier/ActivityModifier3.4.ipynb))
 <br/>
